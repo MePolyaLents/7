@@ -1,5 +1,5 @@
 def Hello_evening():
-    print("Добрый вечер")
+    print("Добрый вечерок")
 Hello_evening()
 
 def Hello_day():
